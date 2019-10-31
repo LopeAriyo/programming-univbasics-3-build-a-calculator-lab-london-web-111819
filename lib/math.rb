@@ -29,6 +29,6 @@ end
 
 def square_root(num)
 
-  p num**(1/2)
+  p num**(1.0/2)
 
 end
